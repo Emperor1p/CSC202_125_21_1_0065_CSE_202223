@@ -1,5 +1,5 @@
 
-#take input and outpu
+#taking input and output
 year = int(input("What is your of birth?: "))
 if year > 1989 and year < 1994:
     print("You are a millenial.")

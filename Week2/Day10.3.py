@@ -46,11 +46,6 @@ def calculator():
             calculator()
 calculator()
         
-
-
-
-
-
 operation_symbol = input("Pick another operation: ")
 num3 = int(input("What is the next number?: "))
 calculation_function = operation[operation_symbol]
